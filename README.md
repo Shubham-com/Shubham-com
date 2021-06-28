@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Shubham Chandra</h1>
 <h3 align="center">A passionate Open Source Contributor and frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-com&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-com" /> </p>
 
 - 🔭 I’m currently working on JavaScript Applications and its Framework.
 - 🌱 I’m currently learning DevOps, API's Integration.
