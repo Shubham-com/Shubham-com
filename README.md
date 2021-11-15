@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Shubham Chandra</h1>
-<h3 align="center">A passionate Open Source Contributor and frontend developer from India</h3>
+<h3 align="center">A passionate Open Source Contributor and Full Stack developer from India</h3>
 
 
 - 🔭 I’m currently working on JavaScript Applications and its Framework.
 - 🌱 I’m currently learning DevOps, API's Integration.
 - 👯 Also exploring in the field of Data Science and Machine Learning.
-- 💬 Ask me about Express.js,Node.js,Numpy,Pandas
+- 💬 Ask me about Express.js,Node.js, DevOps
 - 📫 How to reach me: shubhamchandra4091@gmail.com
 
 <h3 align="left">Connect with me:</h3>
